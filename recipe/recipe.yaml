@@ -63,6 +63,7 @@ tests:
         - pytest
         - pooch
         - scipy
+        - scikit-image
 
 about:
   homepage: https://github.com/computational-cell-analytics/bioimage-cpp
